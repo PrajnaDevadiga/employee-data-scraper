@@ -152,6 +152,3 @@ Log level can be configured in the script (default: INFO).
 - pandas 2.1.3
 - urllib3 2.1.0
 
-## License
-
-This project is provided as-is for educational and development purposes.
