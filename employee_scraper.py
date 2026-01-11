@@ -1,6 +1,6 @@
 """
 Employee Data Scraper
-Fetches employee data from API and normalizes it according to business rules.
+It Fetches employee data from API and normalizes it according to business rules.
 """
 
 import requests
